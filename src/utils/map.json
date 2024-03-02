@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "bigCate":"基础语法",
+        "smallCate":"查询",
+        "file":"全表查询"
+    },
+    {
+        "id":2,
+        "bigCate":"基础语法",
+        "smallCate":"查询",
+        "file":"选择查询"
+    },
+    {
+        "id":3,
+        "bigCate":"基础语法",
+        "smallCate":"查询",
+        "file":"别名"
+    }
+]
