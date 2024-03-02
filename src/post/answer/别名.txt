@@ -1,1 +1,0 @@
-select name as 学生姓名, age 学生年龄 from student
